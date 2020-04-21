@@ -1,0 +1,17 @@
+# Emacs backup files
+*~
+
+# Python byte-compiled files
+*.pyc
+*.rpyc
+
+# Ren'Py log files
+dialogue.txt
+errors.txt
+log.txt
+traceback.txt
+
+# Ren'Py game data
+**/cache/*
+**/saves/*
+**/tl/*
