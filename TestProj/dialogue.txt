@@ -1,0 +1,25 @@
+Sorry, we don't actually have that functionality yet.
+Good luck, sweetheart. I know you'll do fine.
+And home is just a phone call away.
+Your brother is completely ignoring you, engrossed in playing on his handheld. At least someone is acting like normal.
+We might even do your laundry for you.
+Speak for yourself.
+How soon can I come home? Is tomorrow good?
+Well, let me check my busy calendar—
+Shush, the locksmith is coming tomorrow, we can't let [pro_obj] come back before then.
+Very funny.
+[pro_Subj] think I'm kidding.
+[pro_Subj] thinks I'm kidding.
+Stop it, someone might overhear your smothering.
+But [player_name]! How will we live without your sunny presence in our daily lives!
+Be thankful he hasn't started weeping.
+Remember Uncle Joe's wedding? God, that was a good one.
+I'm an adult now. I can take care of myself.
+Hmmm, remember that time you tried to microwave a pie plate?
+Oh, or the time [pro_subj] ate an entire tray of brownies and couldn’t look at chocolate for over a month without gagging?
+Or the time—
+That's it, I'm officially disinheriting you. Can I disinherit my parents?
+Remember who helped you steal those cookies last week.
+Hey! Those were earmarked!
+Remember the last time that [player_name] tried to earmark cookies, and you ate [pro_poss] cookies anyway?
+[pro_Subj] brought it upon [pro_ref].
