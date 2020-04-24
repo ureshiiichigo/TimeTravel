@@ -29,7 +29,7 @@ label physics:
     "Ah, physics, the only science that isn't stamp collecting...(at least according to some asshole)."
 
     if has_looped:
-        "You notice something strange in the corner..."
+        "You notice something strange in the corner...             "
 
         menu:
             "You notice something strange in the corner... Investigate?"
