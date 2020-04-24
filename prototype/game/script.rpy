@@ -54,9 +54,8 @@ label art:
 
 label subsequent_days:
     "The sun sets and then rises on a new morn..."
-    window hide dissolve
+    window auto hide
 
-    window auto
     "Oh boy, time for your next big day at the Lorem Ipsum Academy for Dolor Sit Amet!"
 
     menu:
