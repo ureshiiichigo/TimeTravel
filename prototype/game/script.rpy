@@ -25,7 +25,7 @@ label first_day:
 
 
 label physics:
-    "Ah, physics, the only science that isn't stamp collecting..."
+    "Ah, physics, the only science that isn't stamp collecting...                                     "
     "Ah, physics, the only science that isn't stamp collecting...(at least according to some asshole)."
 
     if has_looped:
