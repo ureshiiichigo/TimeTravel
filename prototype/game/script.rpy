@@ -7,6 +7,15 @@
 
 default has_looped = False
 
+
+screen campus_map():
+    imagemap:
+        auto "map_%s.png"
+
+        hotspot (164, 123, 325, 190) action Jump('art')
+        hotspot (682, 156, 220, 411) action Jump('physics')
+
+
 label start:
     jump first_day
 
@@ -14,14 +23,8 @@ label first_day:
     scene bg room
 
     "Oh boy, time for your first big day at the Lorem Ipsum Academy for Dolor Sit Amet!"
-
-    menu:
-        "Now, which class did you have first...?"
-
-        "Physics":
-            jump physics
-        "Art":
-            jump art
+    "Now, which class did you have first...?"
+    call screen campus_map
 
 
 label physics:
@@ -57,14 +60,8 @@ label subsequent_days:
     window auto hide
 
     "Oh boy, time for your next big day at the Lorem Ipsum Academy for Dolor Sit Amet!"
-
-    menu:
-        "Now which class do you have today...?"
-
-        "Physics":
-            jump physics
-        "Art":
-            jump art
+    "Now, which class do you have today...?"
+    call screen campus_map
 
 
 label investigation:
